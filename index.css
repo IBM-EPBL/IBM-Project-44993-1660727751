@@ -44,7 +44,7 @@ body {
 .resume-top {
   padding: 50px 20px 30px 10%;
   height: 35%;
-  background-color: #33d833;
+  background-color: #e22721;
   border-radius: 10px 10px 0px 0px;
   display: grid;
   grid-template-columns: 1fr 2fr;
@@ -173,7 +173,7 @@ hr{
 }
 
 .skills-right>.percentage-bar>div{
-  background-color: rgb(13, 194, 64);
+  background-color: rgb(255, 255, 255);
 }
 
 .skills-left>.percentage-bar:nth-child(2)>div{
