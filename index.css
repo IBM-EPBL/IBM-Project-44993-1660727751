@@ -44,7 +44,7 @@ body {
 .resume-top {
   padding: 50px 20px 30px 10%;
   height: 35%;
-  background-color: #4894df;
+  background-color: #33d833;
   border-radius: 10px 10px 0px 0px;
   display: grid;
   grid-template-columns: 1fr 2fr;
@@ -90,7 +90,7 @@ body {
 .action-btns > button:nth-child(2) {
   margin-left: 10px;
   color: #fff;
-  background-color: rgb(13, 194, 64);
+  background-color: rgb(62, 15, 231);
 }
 
 .resume-detail{
